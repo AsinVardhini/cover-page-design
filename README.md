@@ -10,13 +10,13 @@ Write your own steps here.
 ### Step 2:
 Create a static file directory and mention the changes in settings.
 
-###Step 3:
+Step 3:
 Make a new folder templates inside your app and create a html and map them using views and url. 
 
-###Step 4:
+Step 4:
 Write down the code for book cover using HTML and CSS. 
 
-###Step 5:
+Step 5:
 Add images and other contents using CSS record a screenshot of it.
 
 ## Code:
@@ -156,7 +156,8 @@ Client Output:
 ![Screenshot 2023-05-07 165636](https://user-images.githubusercontent.com/119417735/236674862-40067012-0f01-4181-a191-7c8b565211f5.png)
 
 Server Output:
-![Uploading Screenshot 2023-05-07 165702.png…]()
+
+
 
 
 ## Result:
